@@ -1,4 +1,6 @@
 Python 运行库管理器 (PyLibManager) / Python Library Manager
+<img width="2232" height="1578" alt="image" src="https://github.com/user-attachments/assets/836dc796-c5e6-4e56-82ac-083ec487b924" />
+
 
 中文 | English
 
